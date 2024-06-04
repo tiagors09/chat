@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030466828023",
+    "project_id": "cod3r-chat-c61f1",
+    "storage_bucket": "cod3r-chat-c61f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030466828023:android:9464ce52564933a07585f2",
+        "android_client_info": {
+          "package_name": "br.com.tiagors09.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEI1YOAVRYIe6Ycwm6c3GVTU7ywi4rWCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
